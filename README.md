@@ -1,11 +1,12 @@
 # Alien Space War - _Java_
+![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 ![DEMO](https://github.com/jbrun0r/MeuPrimeiroJogo---Alien-Space-War/blob/demo-video/alien.gif?raw=true)
 
-Game for Windows desenvolvido 100% em **_Java_** com widget toolkit GUI: **_Swing_**. Consiste em coordenar a Nave Espacial destruindo com Mísseis os Aliens que surgirem e não deixa-los tocarem na Nave.
+Game for Windows desenvolvido 100% em **_Java_** com widget toolkit GUI: **_Swing_**. Consiste em coordenar a Nave Espacial destruindo com Mísseis os Aliens que surgirem e não deixar-los tocarem na Nave.
 
 ## Resumo:
-Após densenvolver um GUI para minha aplicação de uso de Threads: ["Trem de Carga"](https://github.com/jbrun0r/Aplica-oJavaThreadsTrain-Projeto#readme "Visualizar Projeto"), percebi que poderia incoporar a lógica de deslocamento no eixo *X* e *Y* para a movimentação de personagens em qualquer jogo. Então decidi desenvolver este jogo incoporando a lógica necessária para as interações.
+Após densenvolver um GUI para minha aplicação de uso de Threads: ["Trem de Carga"](https://github.com/jbrun0r/Aplica-oJavaThreadsTrain-Projeto#readme "Visualizar Projeto"), percebi que poderia incoporar a lógica de deslocamento no eixo *X* e *Y* para a movimentação de personagens em qualquer jogo. Então decidi desenvolver este jogo incorporando a lógica necessária para as interações.
 
 
 
@@ -61,14 +62,10 @@ ___
 Necessário instalar [Eclipse IDE](https://www.eclipse.org/downloads/) para desenvolvimento Java.
 * **JRE:** 15.0.2
 * **SO:** Windows 10/11 (64-bit Required)
-* **Processador:** Dual Core
-* **Memória:** 4GB de RAM
+
 ---
-#### Download:
 
-[.JAR](https://github.com/jbrun0r/Aplica-oJavaThreadsTrain-Projeto/blob/JAR/TrainThread.jar)\
-[.zip](https://github.com/jbrun0r/Aplica-oJavaThreadsTrain-Projeto/blob/JAR/TrainThread.zip)
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge.svg)
+![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 
